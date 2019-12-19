@@ -1,11 +1,11 @@
 # Site settings
-author: Chloe Foronda
-title: 
+author: Chloe Steffens
+title: Software Engineering - A Journey
 header-img: img/home-bg.png
 email: caforonda103@yahoo.com
-copyright_name: Chloe Foronda
+copyright_name: Chloe Steffens
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Chloe's SE Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ohaiklochan
