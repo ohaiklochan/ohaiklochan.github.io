@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Looping... A Newbie Approach"
-date:       2020-01-25 06:27:24 +0000
+date:       2020-01-25 01:27:25 -0500
 permalink:  looping_a_newbie_approach
 ---
 
